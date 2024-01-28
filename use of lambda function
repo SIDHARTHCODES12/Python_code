@@ -1,0 +1,2 @@
+area_r=lambda l,b:l*b
+print(area_r(4,5))
